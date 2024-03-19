@@ -2,9 +2,8 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%FDD248&size=32&center=true&vCenter=true&width=600&height=50&lines=Native+Developer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>  
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> About Me
-<h1></h1><br>
 
+ <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px><b> About Me</b>
 
 - 👋 Hi, I’m P U B U D U
 - 👀 I’m interested in .Net
