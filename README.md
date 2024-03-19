@@ -1,12 +1,16 @@
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%FDD248&size=32&center=true&vCenter=true&width=600&height=50&lines=Native+Developer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
-    </div>  
+</div>  
 
- <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px><b> About Me</b>
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
+
+
+ ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px><b> About Me</b>
 
 - 👋 Hi, I’m P U B U D U
-- 👀 I’m interested in .Net
+- 👀 I’m interested in UI
 - 🌱 I’m currently learning React
 - 📫 tharukapubudu@gmail.com
 - ⚡ Fun fact: **My first line of code was not "Hello World!"**
